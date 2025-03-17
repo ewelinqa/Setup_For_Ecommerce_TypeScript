@@ -1,4 +1,4 @@
-# myprestashop
+# myprestashop setup
 
 Automation Tests for the My Prestashop
 
